@@ -1,5 +1,5 @@
 
-# Red Teaming Exercise: GPT for Young Audiences
+# Red Teaming Exercise: GPT and other LLMs for Young Audiences
 
 ## Overview
 This Red Teaming project aims to critically evaluate applications utilizing GPT technology targeted at a younger audience, from the perspective of a minor. Our focus is on identifying and documenting any instances where the application might offer responses or advice considered inappropriate or not aligned with safeguarding young users.
