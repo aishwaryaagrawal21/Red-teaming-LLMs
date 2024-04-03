@@ -1,6 +1,3 @@
-Based on the comprehensive analysis provided in the "Red Teaming Exercise" document, we can create an informative and engaging README file for your Red Teaming project. This README will cover the project's purpose, safety policies, models used for probing, grading framework, new safety measures, and potential consequences of the policies.
-
----
 
 # Red Teaming Exercise: GPT for Young Audiences
 
